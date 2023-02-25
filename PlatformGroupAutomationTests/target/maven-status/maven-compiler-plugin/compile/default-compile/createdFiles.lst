@@ -1,0 +1,9 @@
+com\landmark\qa\util\JavaScriptUtil.class
+com\landmark\qa\pages\BasketPage.class
+com\landmark\qa\base\BasePage.class
+com\landmark\qa\base\BaseTest.class
+com\landmark\qa\pages\OrderHistoryPage.class
+com\landmark\qa\pages\CurrentMapsPage.class
+com\landmark\qa\util\ElementUtil.class
+com\landmark\qa\pages\HomePage.class
+com\landmark\qa\pages\LandmarkLoginPage.class
